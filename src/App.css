@@ -27,6 +27,34 @@
 .App-link {
   color: #61dafb;
 }
+/* ///////////////////////////////// */
+
+.color-mode {
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
+
+.purple {
+  background-color: #8918f2;
+}
+.nature{
+  background-color: #87FD34;
+}
+.strawberry{
+  background-color: #fc5a8d ;
+}
+
+/* .accordion-button::after {
+  filter: invert(1);
+} */
+
+
+
+
+
+
+
 
 @keyframes App-logo-spin {
   from {
